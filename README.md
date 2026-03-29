@@ -1,4 +1,4 @@
-#Приветсвую в репозитории Portfolio-and-academic-project!
+# Приветсвую в репозитории Portfolio-and-academic-project!
 
 Он создан для наполнения разными учебными и пет-проектами. 
 
