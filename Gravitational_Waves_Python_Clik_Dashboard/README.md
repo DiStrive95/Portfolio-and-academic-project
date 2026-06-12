@@ -14,5 +14,8 @@
 
 Дополнительные комментарии содержатся в коде.
 
-
+В результате должна получиться такая страница:
  
+<img width="2557" height="938" alt="ДШ1" src="https://github.com/user-attachments/assets/a8e4e148-6d59-4e70-a03f-0ed045136010" />
+<img width="2557" height="582" alt="ДШ2" src="https://github.com/user-attachments/assets/529abb64-debb-42e0-ae70-0810cefa02b4" />
+<img width="2378" height="932" alt="ДШ3" src="https://github.com/user-attachments/assets/9b2210b4-9faf-4f81-863d-04d99f84928a" />
