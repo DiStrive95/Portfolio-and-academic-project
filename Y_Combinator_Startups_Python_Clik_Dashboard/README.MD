@@ -27,3 +27,4 @@
 - В браузере откроется простая визуализация
 
 Результат:
+![Dashboard Screenshot](dashboard.png)
